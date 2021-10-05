@@ -8,4 +8,4 @@ This webpage is created to help travellers to see the weather outlook for multip
 [Weather Dashboard](https://zacklai21.github.io/weather-dashboard/)
 
 ## Screenshot
-
+![alt text](/screenshot.png)
